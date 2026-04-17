@@ -1,0 +1,13 @@
+{
+  "name": "bluesky-scheduler",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bluesky-scheduler.js",
+  "scripts": {
+    "start": "node bluesky-scheduler.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0",
+    "node-fetch": "^3.3.2"
+  }
+}
